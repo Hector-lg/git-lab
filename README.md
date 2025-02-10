@@ -8,5 +8,7 @@ Git practice laboratory.
 #### Python
 ![python](https://raw.githubusercontent.com/Hector-lg/git-lab/main/Burmesepythoncropped.jpg)
 
+### Code Python Examples
+```python print("Hello world") ```
 
 
