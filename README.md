@@ -14,6 +14,24 @@ def sumar(n,m):
   w = n + m
   return w
 ```
+$$
+fibonacci(n) = 
+\begin{cases} 
+0 & \ a = 0, \\
+1 & \ a = 1, \\  
+\text {fibonacci} (n-1)+(n-2)&  n > 1. 
+\end{cases}
+$$
+```python
+def fibonacci(n){
+    if (n<=1){
+        return n;
+    }
+    else{
+        return fibonacci(n-1)+fibonacci(n-2);
+    }
+}
+```
 
 
 ### Listas 
