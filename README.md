@@ -35,6 +35,10 @@ def fibonacci(n){
 
 
 ### Listas 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete
+- [x] Hacer el ejercico 3 markdown
+
+### List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
