@@ -42,6 +42,8 @@ def fibonacci(n){
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+![Linux Logo](https://static.vecteezy.com/system/resources/previews/019/899/948/non_2x/linux-logo-penguin-symbol-black-design-free-png.png)
+
 ### References
 1. Github documentation: [https://docs.github.com/en](https://docs.github.com/en)
 2. Github flossary: [https://docs.github.com/en/get-started/learning-about-github/github-glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
