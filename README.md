@@ -42,3 +42,7 @@ def fibonacci(n){
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+### References
+1. Github documentation: [https://docs.github.com/en](https://docs.github.com/en)
+2. Github flossary: [https://docs.github.com/en/get-started/learning-about-github/github-glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+3. Git documentation: [https://git-scm.com/doc](https://git-scm.com/doc)
